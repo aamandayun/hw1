@@ -11,13 +11,47 @@ the function below should be the only one in this file.
 */
 
 #include "split.h"
+#include <iostream>
+using namespace std;
 
 /* Add a prototype for a helper function here if you need */
+
+
+void endOfList(Node*& list, int value){
+  if(list == NULL){
+    Node* head = new Node(value, nullptr);
+    list = head;
+  }else if(list->next == nullptr){
+    Node* newNode = new Node(value, nullptr);
+    list->next = newNode;
+  }else{
+    endOfList(list->next, value);
+  }
+}
 
 void split(Node*& in, Node*& odds, Node*& evens)
 {
   /* Add code here */
 // WRITE YOUR CODE HERE
+  if(in == nullptr){
+    delete in;
+    return;
+  }
+  int value = in->value;
+  if(value%2!=0){ //odd
+    endOfList(odds, value);
+    Node* temp = in;
+    in = in->next;
+    delete temp;
+    split(in, odds, evens);
+  }else{
+    endOfList(evens, value);
+    Node* temp = in;
+    in = in->next;
+    delete temp;
+    split(in, odds, evens);
+  }
+
 }
 
 /* If you needed a helper function, write it here */
