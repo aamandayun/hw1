@@ -136,21 +136,26 @@ void ULListStr::push_front(const std::string& val){
   }
 }
 void ULListStr::pop_back(){
-  if(tail_==head_ && size_>0){
+  if(size_==0){
+    head_=NULL;
+  }else if(tail_==head_ && size_>0){
     head_->val[head_->last-1] = "";
     head_->last--;
     size_--;
-    if(head_->last <=0){
-      head_=NULL;
-    }
+    // if(size_==0){
+    //   head_ = NULL;
+    // }
+    // if(head_->last<=1){
+    //   head_=NULL;
+    // }
   }else{
     tail_->val[tail_->last-1] = "";
     tail_->last--;
     size_--;
     if(tail_->last<=0){
-      Item* temp = tail_;
+      //Item* temp = tail_;
       tail_ = tail_->prev;
-      delete temp;
+      //delete temp;
     }
   }
 /*
