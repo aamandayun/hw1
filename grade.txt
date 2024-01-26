@@ -1,0 +1,845 @@
+grade_ulliststr compiled.
+ListInsertBack.OneItemAdd
+Note: Google Test filter = ListInsertBack.OneItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.OneItemAdd
+[       OK ] ListInsertBack.OneItemAdd (0 ms)
+[----------] 1 test from ListInsertBack (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.ThreeItemAdd
+Note: Google Test filter = ListInsertBack.ThreeItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.ThreeItemAdd
+[       OK ] ListInsertBack.ThreeItemAdd (0 ms)
+[----------] 1 test from ListInsertBack (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.ARRSIZEPlusOne
+Note: Google Test filter = ListInsertBack.ARRSIZEPlusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.ARRSIZEPlusOne
+[       OK ] ListInsertBack.ARRSIZEPlusOne (0 ms)
+[----------] 1 test from ListInsertBack (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.50RandomElements
+Note: Google Test filter = ListInsertBack.50RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.50RandomElements
+[       OK ] ListInsertBack.50RandomElements (0 ms)
+[----------] 1 test from ListInsertBack (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.5x1000RandomElements
+Note: Google Test filter = ListInsertBack.5x1000RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.5x1000RandomElements
+[       OK ] ListInsertBack.5x1000RandomElements (0 ms)
+[----------] 1 test from ListInsertBack (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.OneItemAdd
+Note: Google Test filter = ListInsertFront.OneItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.OneItemAdd
+[       OK ] ListInsertFront.OneItemAdd (0 ms)
+[----------] 1 test from ListInsertFront (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.ThreeItemAdd
+Note: Google Test filter = ListInsertFront.ThreeItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.ThreeItemAdd
+[       OK ] ListInsertFront.ThreeItemAdd (0 ms)
+[----------] 1 test from ListInsertFront (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.ARRSIZEPlusOne
+Note: Google Test filter = ListInsertFront.ARRSIZEPlusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.ARRSIZEPlusOne
+[       OK ] ListInsertFront.ARRSIZEPlusOne (0 ms)
+[----------] 1 test from ListInsertFront (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.50RandomElements
+Note: Google Test filter = ListInsertFront.50RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.50RandomElements
+[       OK ] ListInsertFront.50RandomElements (0 ms)
+[----------] 1 test from ListInsertFront (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.5x1000RandomElements
+Note: Google Test filter = ListInsertFront.5x1000RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.5x1000RandomElements
+[       OK ] ListInsertFront.5x1000RandomElements (0 ms)
+[----------] 1 test from ListInsertFront (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsert.EmptyString
+Note: Google Test filter = ListInsert.EmptyString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsert
+[ RUN      ] ListInsert.EmptyString
+[       OK ] ListInsert.EmptyString (0 ms)
+[----------] 1 test from ListInsert (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsert.FrontThenBack
+Note: Google Test filter = ListInsert.FrontThenBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsert
+[ RUN      ] ListInsert.FrontThenBack
+[       OK ] ListInsert.FrontThenBack (0 ms)
+[----------] 1 test from ListInsert (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsert.BackThenFront
+Note: Google Test filter = ListInsert.BackThenFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsert
+[ RUN      ] ListInsert.BackThenFront
+[       OK ] ListInsert.BackThenFront (0 ms)
+[----------] 1 test from ListInsert (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.OneItemFront
+Note: Google Test filter = ListRemove.OneItemFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.OneItemFront
+[       OK ] ListRemove.OneItemFront (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.OneItemBack
+Note: Google Test filter = ListRemove.OneItemBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.OneItemBack
+[       OK ] ListRemove.OneItemBack (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.RepeatedOneEleRemoveBack
+Note: Google Test filter = ListRemove.RepeatedOneEleRemoveBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.RepeatedOneEleRemoveBack
+[       OK ] ListRemove.RepeatedOneEleRemoveBack (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.RepeatedOneEleRemoveFront
+Note: Google Test filter = ListRemove.RepeatedOneEleRemoveFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.RepeatedOneEleRemoveFront
+[       OK ] ListRemove.RepeatedOneEleRemoveFront (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.Head3Elements
+Note: Google Test filter = ListRemove.Head3Elements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.Head3Elements
+[       OK ] ListRemove.Head3Elements (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.Tail3Elements
+Note: Google Test filter = ListRemove.Tail3Elements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.Tail3Elements
+[       OK ] ListRemove.Tail3Elements (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.AtARRSIZE
+Note: Google Test filter = ListRemove.AtARRSIZE
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.AtARRSIZE
+[       OK ] ListRemove.AtARRSIZE (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.AtARRSIZEPlusOne
+Note: Google Test filter = ListRemove.AtARRSIZEPlusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.AtARRSIZEPlusOne
+[       OK ] ListRemove.AtARRSIZEPlusOne (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.SongOfBackAndFront
+Note: Google Test filter = ListRemove.SongOfBackAndFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.SongOfBackAndFront
+[       OK ] ListRemove.SongOfBackAndFront (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.50ElementsFromBack
+Note: Google Test filter = ListRemove.50ElementsFromBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.50ElementsFromBack
+[       OK ] ListRemove.50ElementsFromBack (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListRemove.50ElementsFromFront
+Note: Google Test filter = ListRemove.50ElementsFromFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.50ElementsFromFront
+[       OK ] ListRemove.50ElementsFromFront (0 ms)
+[----------] 1 test from ListRemove (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListSet.OneItem
+Note: Google Test filter = ListSet.OneItem
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.OneItem
+[       OK ] ListSet.OneItem (0 ms)
+[----------] 1 test from ListSet (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListSet.First
+Note: Google Test filter = ListSet.First
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.First
+[       OK ] ListSet.First (0 ms)
+[----------] 1 test from ListSet (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListSet.Last
+Note: Google Test filter = ListSet.Last
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.Last
+[       OK ] ListSet.Last (0 ms)
+[----------] 1 test from ListSet (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListSet.Middle
+Note: Google Test filter = ListSet.Middle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.Middle
+[       OK ] ListSet.Middle (0 ms)
+[----------] 1 test from ListSet (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListSet.50x50RandomElements
+Note: Google Test filter = ListSet.50x50RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.50x50RandomElements
+[       OK ] ListSet.50x50RandomElements (0 ms)
+[----------] 1 test from ListSet (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.ConstructionDestruction
+Note: Google Test filter = UnrolledList.ConstructionDestruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.ConstructionDestruction
+[       OK ] UnrolledList.ConstructionDestruction (0 ms)
+[----------] 1 test from UnrolledList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.NoElements
+Note: Google Test filter = UnrolledList.NoElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.NoElements
+[       OK ] UnrolledList.NoElements (0 ms)
+[----------] 1 test from UnrolledList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Front_PushBack
+Note: Google Test filter = UnrolledList.Front_PushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Front_PushBack
+[       OK ] UnrolledList.Front_PushBack (0 ms)
+[----------] 1 test from UnrolledList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Front_PushFront
+Note: Google Test filter = UnrolledList.Front_PushFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Front_PushFront
+[       OK ] UnrolledList.Front_PushFront (0 ms)
+[----------] 1 test from UnrolledList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Back_PushBack
+Note: Google Test filter = UnrolledList.Back_PushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Back_PushBack
+[       OK ] UnrolledList.Back_PushBack (0 ms)
+[----------] 1 test from UnrolledList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Back_PushFront
+Note: Google Test filter = UnrolledList.Back_PushFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Back_PushFront
+[       OK ] UnrolledList.Back_PushFront (0 ms)
+[----------] 1 test from UnrolledList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.OneItemAdd
+Note: Google Test filter = ListInsertBack.OneItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.OneItemAdd
+[       OK ] ListInsertBack.OneItemAdd (27 ms)
+[----------] 1 test from ListInsertBack (39 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (134 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.ThreeItemAdd
+Note: Google Test filter = ListInsertBack.ThreeItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.ThreeItemAdd
+[       OK ] ListInsertBack.ThreeItemAdd (32 ms)
+[----------] 1 test from ListInsertBack (42 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (118 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.ARRSIZEPlusOne
+Note: Google Test filter = ListInsertBack.ARRSIZEPlusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.ARRSIZEPlusOne
+[       OK ] ListInsertBack.ARRSIZEPlusOne (66 ms)
+[----------] 1 test from ListInsertBack (78 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (148 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.50RandomElements
+Note: Google Test filter = ListInsertBack.50RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.50RandomElements
+[       OK ] ListInsertBack.50RandomElements (24 ms)
+[----------] 1 test from ListInsertBack (34 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (104 ms total)
+[  PASSED  ] 1 test.
+ListInsertBack.5x1000RandomElements
+Note: Google Test filter = ListInsertBack.5x1000RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertBack
+[ RUN      ] ListInsertBack.5x1000RandomElements
+[       OK ] ListInsertBack.5x1000RandomElements (22 ms)
+[----------] 1 test from ListInsertBack (32 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (102 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.OneItemAdd
+Note: Google Test filter = ListInsertFront.OneItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.OneItemAdd
+[       OK ] ListInsertFront.OneItemAdd (32 ms)
+[----------] 1 test from ListInsertFront (44 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.ThreeItemAdd
+Note: Google Test filter = ListInsertFront.ThreeItemAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.ThreeItemAdd
+[       OK ] ListInsertFront.ThreeItemAdd (35 ms)
+[----------] 1 test from ListInsertFront (45 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (108 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.ARRSIZEPlusOne
+Note: Google Test filter = ListInsertFront.ARRSIZEPlusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.ARRSIZEPlusOne
+[       OK ] ListInsertFront.ARRSIZEPlusOne (70 ms)
+[----------] 1 test from ListInsertFront (80 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (147 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.50RandomElements
+Note: Google Test filter = ListInsertFront.50RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.50RandomElements
+[       OK ] ListInsertFront.50RandomElements (21 ms)
+[----------] 1 test from ListInsertFront (30 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (97 ms total)
+[  PASSED  ] 1 test.
+ListInsertFront.5x1000RandomElements
+Note: Google Test filter = ListInsertFront.5x1000RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsertFront
+[ RUN      ] ListInsertFront.5x1000RandomElements
+[       OK ] ListInsertFront.5x1000RandomElements (24 ms)
+[----------] 1 test from ListInsertFront (34 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (106 ms total)
+[  PASSED  ] 1 test.
+ListInsert.EmptyString
+Note: Google Test filter = ListInsert.EmptyString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsert
+[ RUN      ] ListInsert.EmptyString
+[       OK ] ListInsert.EmptyString (25 ms)
+[----------] 1 test from ListInsert (37 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (104 ms total)
+[  PASSED  ] 1 test.
+ListInsert.FrontThenBack
+Note: Google Test filter = ListInsert.FrontThenBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsert
+[ RUN      ] ListInsert.FrontThenBack
+[       OK ] ListInsert.FrontThenBack (27 ms)
+[----------] 1 test from ListInsert (37 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (103 ms total)
+[  PASSED  ] 1 test.
+ListInsert.BackThenFront
+Note: Google Test filter = ListInsert.BackThenFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListInsert
+[ RUN      ] ListInsert.BackThenFront
+[       OK ] ListInsert.BackThenFront (28 ms)
+[----------] 1 test from ListInsert (38 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (106 ms total)
+[  PASSED  ] 1 test.
+ListRemove.OneItemFront
+Note: Google Test filter = ListRemove.OneItemFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.OneItemFront
+[       OK ] ListRemove.OneItemFront (27 ms)
+[----------] 1 test from ListRemove (38 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (107 ms total)
+[  PASSED  ] 1 test.
+ListRemove.OneItemBack
+Note: Google Test filter = ListRemove.OneItemBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.OneItemBack
+[       OK ] ListRemove.OneItemBack (29 ms)
+[----------] 1 test from ListRemove (40 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (109 ms total)
+[  PASSED  ] 1 test.
+ListRemove.RepeatedOneEleRemoveBack
+Note: Google Test filter = ListRemove.RepeatedOneEleRemoveBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.RepeatedOneEleRemoveBack
+[       OK ] ListRemove.RepeatedOneEleRemoveBack (29 ms)
+[----------] 1 test from ListRemove (41 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (109 ms total)
+[  PASSED  ] 1 test.
+ListRemove.RepeatedOneEleRemoveFront
+Note: Google Test filter = ListRemove.RepeatedOneEleRemoveFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.RepeatedOneEleRemoveFront
+[       OK ] ListRemove.RepeatedOneEleRemoveFront (49 ms)
+[----------] 1 test from ListRemove (60 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (130 ms total)
+[  PASSED  ] 1 test.
+ListRemove.Head3Elements
+Note: Google Test filter = ListRemove.Head3Elements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.Head3Elements
+[       OK ] ListRemove.Head3Elements (38 ms)
+[----------] 1 test from ListRemove (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (116 ms total)
+[  PASSED  ] 1 test.
+ListRemove.Tail3Elements
+Note: Google Test filter = ListRemove.Tail3Elements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.Tail3Elements
+[       OK ] ListRemove.Tail3Elements (34 ms)
+[----------] 1 test from ListRemove (45 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (114 ms total)
+[  PASSED  ] 1 test.
+ListRemove.AtARRSIZE
+Note: Google Test filter = ListRemove.AtARRSIZE
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.AtARRSIZE
+[       OK ] ListRemove.AtARRSIZE (30 ms)
+[----------] 1 test from ListRemove (41 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (114 ms total)
+[  PASSED  ] 1 test.
+ListRemove.AtARRSIZEPlusOne
+Note: Google Test filter = ListRemove.AtARRSIZEPlusOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.AtARRSIZEPlusOne
+[       OK ] ListRemove.AtARRSIZEPlusOne (35 ms)
+[----------] 1 test from ListRemove (46 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (114 ms total)
+[  PASSED  ] 1 test.
+ListRemove.SongOfBackAndFront
+Note: Google Test filter = ListRemove.SongOfBackAndFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.SongOfBackAndFront
+[       OK ] ListRemove.SongOfBackAndFront (48 ms)
+[----------] 1 test from ListRemove (59 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (138 ms total)
+[  PASSED  ] 1 test.
+ListRemove.50ElementsFromBack
+Note: Google Test filter = ListRemove.50ElementsFromBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.50ElementsFromBack
+[       OK ] ListRemove.50ElementsFromBack (69 ms)
+[----------] 1 test from ListRemove (82 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (167 ms total)
+[  PASSED  ] 1 test.
+ListRemove.50ElementsFromFront
+Note: Google Test filter = ListRemove.50ElementsFromFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListRemove
+[ RUN      ] ListRemove.50ElementsFromFront
+[       OK ] ListRemove.50ElementsFromFront (53 ms)
+[----------] 1 test from ListRemove (63 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (135 ms total)
+[  PASSED  ] 1 test.
+ListSet.OneItem
+Note: Google Test filter = ListSet.OneItem
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.OneItem
+[       OK ] ListSet.OneItem (27 ms)
+[----------] 1 test from ListSet (37 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (102 ms total)
+[  PASSED  ] 1 test.
+ListSet.First
+Note: Google Test filter = ListSet.First
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.First
+[       OK ] ListSet.First (25 ms)
+[----------] 1 test from ListSet (36 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (100 ms total)
+[  PASSED  ] 1 test.
+ListSet.Last
+Note: Google Test filter = ListSet.Last
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.Last
+[       OK ] ListSet.Last (30 ms)
+[----------] 1 test from ListSet (43 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (109 ms total)
+[  PASSED  ] 1 test.
+ListSet.Middle
+Note: Google Test filter = ListSet.Middle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.Middle
+[       OK ] ListSet.Middle (24 ms)
+[----------] 1 test from ListSet (34 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (97 ms total)
+[  PASSED  ] 1 test.
+ListSet.50x50RandomElements
+Note: Google Test filter = ListSet.50x50RandomElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ListSet
+[ RUN      ] ListSet.50x50RandomElements
+[       OK ] ListSet.50x50RandomElements (20 ms)
+[----------] 1 test from ListSet (30 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (94 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.ConstructionDestruction
+Note: Google Test filter = UnrolledList.ConstructionDestruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.ConstructionDestruction
+[       OK ] UnrolledList.ConstructionDestruction (16 ms)
+[----------] 1 test from UnrolledList (25 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (88 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.NoElements
+Note: Google Test filter = UnrolledList.NoElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.NoElements
+[       OK ] UnrolledList.NoElements (29 ms)
+[----------] 1 test from UnrolledList (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (124 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Front_PushBack
+Note: Google Test filter = UnrolledList.Front_PushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Front_PushBack
+[       OK ] UnrolledList.Front_PushBack (30 ms)
+[----------] 1 test from UnrolledList (42 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Front_PushFront
+Note: Google Test filter = UnrolledList.Front_PushFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Front_PushFront
+[       OK ] UnrolledList.Front_PushFront (35 ms)
+[----------] 1 test from UnrolledList (46 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (118 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Back_PushBack
+Note: Google Test filter = UnrolledList.Back_PushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Back_PushBack
+[       OK ] UnrolledList.Back_PushBack (33 ms)
+[----------] 1 test from UnrolledList (43 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (115 ms total)
+[  PASSED  ] 1 test.
+UnrolledList.Back_PushFront
+Note: Google Test filter = UnrolledList.Back_PushFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UnrolledList
+[ RUN      ] UnrolledList.Back_PushFront
+[       OK ] UnrolledList.Back_PushFront (34 ms)
+[----------] 1 test from UnrolledList (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (117 ms total)
+[  PASSED  ] 1 test.
+The following tests failed: 
+The following tests failed valgrind:  ListInsertBack.OneItemAdd ListInsertBack.ThreeItemAdd ListInsert.EmptyString ListRemove.OneItemBack ListRemove.RepeatedOneEleRemoveBack ListRemove.RepeatedOneEleRemoveFront ListRemove.Head3Elements ListRemove.Tail3Elements ListRemove.AtARRSIZE ListRemove.AtARRSIZEPlusOne ListRemove.SongOfBackAndFront ListRemove.50ElementsFromBack ListSet.OneItem ListSet.First ListSet.Last ListSet.Middle
+Score = max(100*(35/35 - 0.5*(35-19)/35),0) = 77.14
+AUTO:T35:P35:V19:77.14

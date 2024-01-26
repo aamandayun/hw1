@@ -8,7 +8,7 @@ class ULListStr {
   struct Item {
     std::string val[ARRSIZE];
     /**
-     * first and last indicate the occupied/used 
+     *  and last indicate the occupied/used 
      * elements of the array where first is an
      * inclusive index and last is an exclusive
      * index (i.e. first=0, last=0 indicates none
